@@ -1,0 +1,12 @@
+.container{
+    border:2px solid red;
+    padding: 20px;
+    background-color: slategrey;
+    color: white;
+}
+.visited-container{
+    border:2px solid red;
+    padding: 20px;
+    background-color: lightgreen;
+    color: white;
+}

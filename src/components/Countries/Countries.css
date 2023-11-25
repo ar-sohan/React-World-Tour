@@ -1,0 +1,14 @@
+.box{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+.visited-countries{
+    background-color: aquamarine;
+    align-items: center;
+    padding: 20px;
+    margin: 10px;
+}
+.country-list{
+    list-style-type: none;
+}
